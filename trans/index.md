@@ -1,2 +1,2 @@
 
-[PPU Scrolling](nesdev/ppu/scrolling)
+[NesDev](nesdev/index)
